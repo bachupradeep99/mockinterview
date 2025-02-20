@@ -1,0 +1,48 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Hero Section */
+.hero-section {
+    background: url(../images/home.bg.png) no-repeat top / contain;
+    height: 812px;
+    color: black;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    width: 1827px;
+
+
+}
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+p {
+    font-size: 1.2rem;
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+
+.hero ul {
+    padding: 10px 0;
+    list-style: none;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .btn-primary {
+    margin-left: 10px;
+}
+
+/* Footer */
+footer a {
+    text-decoration: none;
+}
